@@ -65,3 +65,4 @@ npm run build # or `yarn build`
 ```
 "# Comingsoon_take2" 
 "# FINAL_COMINGSOON_PAGE" 
+"# Final_Static_Landingpage" 
