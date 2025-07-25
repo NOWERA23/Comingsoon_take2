@@ -64,3 +64,4 @@ The production build will generate client and server modules by running both cli
 npm run build # or `yarn build`
 ```
 "# Comingsoon_take2" 
+"# FINAL_COMINGSOON_PAGE" 
